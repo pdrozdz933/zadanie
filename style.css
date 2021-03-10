@@ -1,5 +1,11 @@
 div{
-    
     position: absolute;
 }
+
+#a1{
+    background-color: brown;
+    width: auto;
+    right: 100px;
+}
+
 
